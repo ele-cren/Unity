@@ -1,0 +1,1000 @@
+fileFormatVersion: 2
+guid: 530b2045a3d2141fab0afec59e589119
+timeCreated: 1510934833
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_juju_boss__x1_spawn_png_1354831800_0
+    21300002: npc_juju_boss__x1_spawn_png_1354831800_1
+    21300004: npc_juju_boss__x1_spawn_png_1354831800_2
+    21300006: npc_juju_boss__x1_spawn_png_1354831800_3
+    21300008: npc_juju_boss__x1_spawn_png_1354831800_4
+    21300010: npc_juju_boss__x1_spawn_png_1354831800_5
+    21300012: npc_juju_boss__x1_spawn_png_1354831800_6
+    21300014: npc_juju_boss__x1_spawn_png_1354831800_7
+    21300016: npc_juju_boss__x1_spawn_png_1354831800_8
+    21300018: npc_juju_boss__x1_spawn_png_1354831800_9
+    21300020: npc_juju_boss__x1_spawn_png_1354831800_10
+    21300022: npc_juju_boss__x1_spawn_png_1354831800_11
+    21300024: npc_juju_boss__x1_spawn_png_1354831800_12
+    21300026: npc_juju_boss__x1_spawn_png_1354831800_13
+    21300028: npc_juju_boss__x1_spawn_png_1354831800_14
+    21300030: npc_juju_boss__x1_spawn_png_1354831800_15
+    21300032: npc_juju_boss__x1_spawn_png_1354831800_16
+    21300034: npc_juju_boss__x1_spawn_png_1354831800_17
+    21300036: npc_juju_boss__x1_spawn_png_1354831800_18
+    21300038: npc_juju_boss__x1_spawn_png_1354831800_19
+    21300040: npc_juju_boss__x1_spawn_png_1354831800_20
+    21300042: npc_juju_boss__x1_spawn_png_1354831800_21
+    21300044: npc_juju_boss__x1_spawn_png_1354831800_22
+    21300046: npc_juju_boss__x1_spawn_png_1354831800_23
+    21300048: npc_juju_boss__x1_spawn_png_1354831800_24
+    21300050: npc_juju_boss__x1_spawn_png_1354831800_25
+    21300052: npc_juju_boss__x1_spawn_png_1354831800_26
+    21300054: npc_juju_boss__x1_spawn_png_1354831800_27
+    21300056: npc_juju_boss__x1_spawn_png_1354831800_28
+    21300058: npc_juju_boss__x1_spawn_png_1354831800_29
+    21300060: npc_juju_boss__x1_spawn_png_1354831800_30
+    21300062: npc_juju_boss__x1_spawn_png_1354831800_31
+    21300064: npc_juju_boss__x1_spawn_png_1354831800_32
+    21300066: npc_juju_boss__x1_spawn_png_1354831800_33
+    21300068: npc_juju_boss__x1_spawn_png_1354831800_34
+    21300070: npc_juju_boss__x1_spawn_png_1354831800_35
+    21300072: npc_juju_boss__x1_spawn_png_1354831800_36
+    21300074: npc_juju_boss__x1_spawn_png_1354831800_37
+    21300076: npc_juju_boss__x1_spawn_png_1354831800_38
+    21300078: npc_juju_boss__x1_spawn_png_1354831800_39
+    21300080: npc_juju_boss__x1_spawn_png_1354831800_40
+    21300082: npc_juju_boss__x1_spawn_png_1354831800_41
+    21300084: npc_juju_boss__x1_spawn_png_1354831800_42
+    21300086: npc_juju_boss__x1_spawn_png_1354831800_43
+    21300088: npc_juju_boss__x1_spawn_png_1354831800_44
+    21300090: npc_juju_boss__x1_spawn_png_1354831800_45
+    21300092: npc_juju_boss__x1_spawn_png_1354831800_46
+    21300094: npc_juju_boss__x1_spawn_png_1354831800_47
+    21300096: npc_juju_boss__x1_spawn_png_1354831800_48
+    21300098: npc_juju_boss__x1_spawn_png_1354831800_49
+    21300100: npc_juju_boss__x1_spawn_png_1354831800_50
+    21300102: npc_juju_boss__x1_spawn_png_1354831800_51
+    21300104: npc_juju_boss__x1_spawn_png_1354831800_52
+    21300106: npc_juju_boss__x1_spawn_png_1354831800_53
+    21300108: npc_juju_boss__x1_spawn_png_1354831800_54
+    21300110: npc_juju_boss__x1_spawn_png_1354831800_55
+    21300112: npc_juju_boss__x1_spawn_png_1354831800_56
+    21300114: npc_juju_boss__x1_spawn_png_1354831800_57
+    21300116: npc_juju_boss__x1_spawn_png_1354831800_58
+    21300118: npc_juju_boss__x1_spawn_png_1354831800_59
+    21300120: npc_juju_boss__x1_spawn_png_1354831800_60
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.3333
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_0
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_12
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_20
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_28
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_34
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_36
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_40
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_42
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_44
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_56
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_57
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_58
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_59
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_spawn_png_1354831800_60
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

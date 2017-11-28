@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Breakable
+  - Unbreakable
+  - Life
+  - Enlarge
+  - Laser
+  - Rocket
+  - Mult
+  - PaddleLaser
+  - PaddleRocket
+  - Paddle
+  - RocketLauncher
+  - PaddleEnlarge
+  - Ball
+  - Fireball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 659167239
+    locked: 0
+  - name: Mid
+    uniqueID: 185601027
+    locked: 0
+  - name: Foreground
+    uniqueID: 2171944127
+    locked: 0

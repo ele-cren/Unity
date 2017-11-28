@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4eb8396356c6549c5ba28342b131a7fb
+timeCreated: 1509444991
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Block Stock
+  fontNames:
+  - Block Stock
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
