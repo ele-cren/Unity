@@ -106,10 +106,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 635
-  m_MinSize: {x: 506, y: 342}
+  m_MinSize: {x: 681, y: 342}
   m_MaxSize: {x: 12006, y: 8042}
   vertical: 0
-  controlID: 52
+  controlID: 10
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 342}
   m_MaxSize: {x: 8004, y: 8042}
   vertical: 1
-  controlID: 53
+  controlID: 11
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 54
+  controlID: 12
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -255,15 +255,15 @@ MonoBehaviour:
     y: 0
     width: 405
     height: 635
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 20}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
   - {fileID: 20}
   - {fileID: 21}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -368,27 +368,28 @@ MonoBehaviour:
     height: 341
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 58990000
-    m_LastClickedID: 39256
-    m_ExpandedIDs: 9c7dfcff9680fcffe485fcff5e88fcff6c8efcff7c90fcff1c93fcfff295fcff2eabfcff6eaffcff58b7fcff0abafcff88befcffb0c3fcff0adefcffc8e0fcffa6e3fcffc8ecfcffa2eefcffb4f0fcff78f3fcffcefcfcffa800fdff860dfdff2e10fdff5623fdffb632fdffba34fdff6437fdff7c3afdfffa40fdffd843fdff884afdffa84cfdff904ffdffe852fdff7a5bfdffa467fdff3678fdfff67bfdffe081fdff7492fdff6c4bfeff044cfeff9450feff2064feffa6fbffff000000006a2800009a2800006c290000b6290000
+    m_SelectedIDs: b42c0000
+    m_LastClickedID: 11444
+    m_ExpandedIDs: 20daffff5aedffff36eeffffa6fbffff00000000e22b00001c2c0000982c0000b42c0000e62c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Panel
+      m_OriginalName: Panel
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -146186
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
-  m_ExpandedScenes: []
+  m_ExpandedScenes:
+  - Game
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -419,14 +420,14 @@ MonoBehaviour:
     width: 731
     height: 341
   m_SceneLighting: 1
-  lastFramingTime: 1871.5871843462223
-  m_2DMode: 0
+  lastFramingTime: 2364.163990368077
+  m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 327.54764, y: 181.30162, z: -1.5625}
+    m_Target: {x: 257.658, y: 174.10268, z: -4.365876}
     speed: 2
-    m_Value: {x: 327.54764, y: 181.30162, z: -1.5625}
+    m_Value: {x: 257.658, y: 174.10268, z: -4.365876}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -441,27 +442,27 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 1
-      speed: 2
-      m_Value: 1
-    zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
   m_Rotation:
-    m_Target: {x: -0.08716659, y: -0.028384486, z: 0.0024840003, w: -0.9957862}
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: -0.08716659, y: -0.028384486, z: 0.0024840003, w: -0.9957862}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 391.8235
+    m_Target: 472.38037
     speed: 2
-    m_Value: 391.8235
+    m_Value: 472.38037
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.08716659, y: -0.028384486, z: 0.0024840003, w: -0.9957862}
+  m_LastSceneViewRotation: {x: -0.20752229, y: 0.43617192, z: -0.104113735, w: -0.86939573}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -490,9 +491,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 456
-    width: 993
-    height: 250
+    y: 454
+    width: 959
+    height: 252
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -505,18 +506,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scripts/Editor
   m_ViewMode: 1
   m_StartGridSize: 78
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scripts/Editor
   m_LastFoldersGridSize: 78
   m_LastProjectPath: C:\Users\Erwan\Documents\Unity\Bowling
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 12}
-    m_SelectedIDs: 64270000
-    m_LastClickedID: 10084
+    m_SelectedIDs: a2270000
+    m_LastClickedID: 10146
     m_ExpandedIDs: 0000000046270000642700009a270000bc270000e42700001228000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -570,8 +571,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: ec050000
-    m_LastClickedInstanceID: 1516
+    m_SelectedInstanceIDs: c62c0000
+    m_LastClickedInstanceID: 11462
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000362d00004a3200003627000000000000
     m_RenameOverlay:
@@ -597,7 +598,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 64.5}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 78
   m_DirectoriesAreaWidth: 168
 --- !u!114 &16
@@ -724,9 +725,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 891
+    x: 963
     y: 92
-    width: 475
+    width: 403
     height: 614
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
@@ -826,7 +827,7 @@ MonoBehaviour:
       name: Assembly-CSharp-Editor.dll
       fullName: C:/Users/Erwan/Documents/Unity/Bowling/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
       resultStatus: 1
-      duration: 0.3213866
+      duration: 0.3405112
       messages: 
       output: 
       stacktrace: 
@@ -838,7 +839,7 @@ MonoBehaviour:
       name: ScoreMasterTest
       fullName: ScoreMasterTest
       resultStatus: 1
-      duration: 0.3103482
+      duration: 0.3292806
       messages: 
       output: 
       stacktrace: 
@@ -850,7 +851,7 @@ MonoBehaviour:
       name: GoldenTest00
       fullName: ScoreMasterTest.GoldenTest00
       resultStatus: 1
-      duration: 0.0044077
+      duration: 0.0143771
       messages: 
       output: 
       stacktrace: 
@@ -862,7 +863,7 @@ MonoBehaviour:
       name: GoldenTest01
       fullName: ScoreMasterTest.GoldenTest01
       resultStatus: 1
-      duration: 0.0045711
+      duration: 0.0046121
       messages: 
       output: 
       stacktrace: 
@@ -874,7 +875,7 @@ MonoBehaviour:
       name: GoldenTest02
       fullName: ScoreMasterTest.GoldenTest02
       resultStatus: 1
-      duration: 0.0045254
+      duration: 0.0045673
       messages: 
       output: 
       stacktrace: 
@@ -886,7 +887,7 @@ MonoBehaviour:
       name: ScoreMasterTestSimplePasses
       fullName: ScoreMasterTest.ScoreMasterTestSimplePasses
       resultStatus: 1
-      duration: 0.0041798
+      duration: 0.0044291
       messages: 
       output: 
       stacktrace: 
@@ -898,7 +899,7 @@ MonoBehaviour:
       name: ScoreMasterTestWithEnumeratorPasses
       fullName: ScoreMasterTest.ScoreMasterTestWithEnumeratorPasses
       resultStatus: 1
-      duration: 0.0110677
+      duration: 0.011454
       messages: 
       output: 
       stacktrace: 
@@ -910,7 +911,7 @@ MonoBehaviour:
       name: Test00
       fullName: ScoreMasterTest.Test00
       resultStatus: 1
-      duration: 0.004405
+      duration: 0.0045798
       messages: 
       output: 
       stacktrace: 
@@ -922,7 +923,7 @@ MonoBehaviour:
       name: Test00Strike19
       fullName: ScoreMasterTest.Test00Strike19
       resultStatus: 1
-      duration: 0.0050234
+      duration: 0.00455
       messages: 
       output: 
       stacktrace: 
@@ -934,7 +935,7 @@ MonoBehaviour:
       name: Test01Not21
       fullName: ScoreMasterTest.Test01Not21
       resultStatus: 1
-      duration: 0.0043353
+      duration: 0.005573
       messages: 
       output: 
       stacktrace: 
@@ -946,7 +947,7 @@ MonoBehaviour:
       name: Test02Spare20
       fullName: ScoreMasterTest.Test02Spare20
       resultStatus: 1
-      duration: 0.0050697
+      duration: 0.005311
       messages: 
       output: 
       stacktrace: 
@@ -958,7 +959,7 @@ MonoBehaviour:
       name: Test03Strike19
       fullName: ScoreMasterTest.Test03Strike19
       resultStatus: 1
-      duration: 0.0048892
+      duration: 0.0045372
       messages: 
       output: 
       stacktrace: 
@@ -970,7 +971,7 @@ MonoBehaviour:
       name: Test04trike17
       fullName: ScoreMasterTest.Test04trike17
       resultStatus: 1
-      duration: 0.0043392
+      duration: 0.0047382
       messages: 
       output: 
       stacktrace: 
@@ -982,7 +983,7 @@ MonoBehaviour:
       name: Test05pare18
       fullName: ScoreMasterTest.Test05pare18
       resultStatus: 1
-      duration: 0.0041532
+      duration: 0.0049283
       messages: 
       output: 
       stacktrace: 
@@ -994,7 +995,7 @@ MonoBehaviour:
       name: Test06DoubleStrike
       fullName: ScoreMasterTest.Test06DoubleStrike
       resultStatus: 1
-      duration: 0.0048156
+      duration: 0.0045174
       messages: 
       output: 
       stacktrace: 
@@ -1006,7 +1007,7 @@ MonoBehaviour:
       name: Test06FullStrikesEnd
       fullName: ScoreMasterTest.Test06FullStrikesEnd
       resultStatus: 1
-      duration: 0.0045628
+      duration: 0.0047948
       messages: 
       output: 
       stacktrace: 
@@ -1018,7 +1019,7 @@ MonoBehaviour:
       name: Test07GutterBallThenStrike
       fullName: ScoreMasterTest.Test07GutterBallThenStrike
       resultStatus: 1
-      duration: 0.004632
+      duration: 0.0044499
       messages: 
       output: 
       stacktrace: 
@@ -1030,7 +1031,7 @@ MonoBehaviour:
       name: Test08StrikeEndOfFrame
       fullName: ScoreMasterTest.Test08StrikeEndOfFrame
       resultStatus: 1
-      duration: 0.005544
+      duration: 0.0043958
       messages: 
       output: 
       stacktrace: 
@@ -1042,7 +1043,7 @@ MonoBehaviour:
       name: TestError
       fullName: ScoreMasterTest.TestError
       resultStatus: 1
-      duration: 0.0048809
+      duration: 0.0042876
       messages: 
       output: 
       stacktrace: 
@@ -1054,7 +1055,7 @@ MonoBehaviour:
       name: TestError01
       fullName: ScoreMasterTest.TestError01
       resultStatus: 1
-      duration: 0.0044956
+      duration: 0.004615
       messages: 
       output: 
       stacktrace: 
@@ -1066,7 +1067,7 @@ MonoBehaviour:
       name: TestError02
       fullName: ScoreMasterTest.TestError02
       resultStatus: 1
-      duration: 0.0049251
+      duration: 0.004543
       messages: 
       output: 
       stacktrace: 
@@ -1074,12 +1075,24 @@ MonoBehaviour:
       ignoredOrSkipped: 0
       description: 
       isSuite: 0
-    m_ResultText: GoldenTest01 (0.005s)
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest.TestPerfect]'
+      name: TestPerfect
+      fullName: ScoreMasterTest.TestPerfect
+      resultStatus: 1
+      duration: 0.0047641
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    m_ResultText: Test08StrikeEndOfFrame (0.004s)
     m_ResultStacktrace: 
     m_TestListState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 747ab918
-      m_LastClickedID: 414808692
+      m_SelectedIDs: 89e495f2
+      m_LastClickedID: -225057655
       m_ExpandedIDs: 1bfcd2a7e456c63cf5e0bc4768f4d76cffffff7f
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1127,10 +1140,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 2046
-    y: 94
-    width: 514
-    height: 1243
+    x: 963
+    y: 92
+    width: 403
+    height: 614
   m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
   m_GlobalObjectTypeName: 
   m_RegisteredViewURLs:

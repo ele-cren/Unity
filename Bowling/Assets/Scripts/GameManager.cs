@@ -24,17 +24,10 @@ public class GameManager : MonoBehaviour {
 		if (pinFall == 10 && rolls.Count - 1 < 18 && ((rolls.Count - 1) % 2 == 0)) {
 			rolls.Add (0);
 		}
-		pinSetter.PerformAction (ActionMaster.NextAction (rolls));
 		scoreDisplay.FillRolls (rolls);
+		scoreDisplay.FillFrames (ScoreMaster.ScoreFrame (rolls));
 
-		try {
-			scoreDisplay.FillFrames (ScoreMaster.ScoreFrame (rolls));
-		} catch {
-			Debug.LogWarning ("Error calculate frame");
-			for (int i = 0; i < rolls.Count; i++) {
-				print (i + " : " + rolls[i]);
-			}
-		}
+		pinSetter.PerformAction (ActionMaster.NextAction (rolls));
 		ball.Reset();
 	}
 }

@@ -158,4 +158,12 @@ public class ScoreMasterTest {
 		int[] totalS = {24, 44};
 		Assert.AreEqual (totalS.ToList(), ScoreMaster.ScoreFrame (rolls.ToList()));
 	}
+
+	[Test] 
+	public void TestPerfect()
+	{
+		int[] rolls = { 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,10,10};
+		int[] totalS = {30, 60, 90, 120, 150, 180, 210, 240, 270, 300};
+		Assert.AreEqual (totalS.ToList(), ScoreMaster.ScoreFrame (rolls.ToList()));
+	}
 }

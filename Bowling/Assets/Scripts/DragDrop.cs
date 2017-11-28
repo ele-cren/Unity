@@ -39,8 +39,8 @@ public class DragDrop : MonoBehaviour {
 		float speedZ = (endDrag.y - startDrag.y) / duration / 4f;
 
 		speedZ = (speedZ > 1000f) ? 1000f : speedZ;
-		//if (!ball.inPlay && pinAnimator.GetCurrentAnimatorStateInfo (0).IsName ("Idle")) {
+		if (!ball.inPlay && pinAnimator.GetCurrentAnimatorStateInfo (0).IsName ("Idle")) {
 			ball.Launch(new Vector3(speedX, 0, speedZ));		
-		//}
+		}
 	}
 }

@@ -24,7 +24,7 @@ public class PinSetter : MonoBehaviour {
 			animator.SetTrigger("resetTrigger");
 			pinCounter.SetCount();
 		} else if (action == ActionMaster.Action.EndGame){
-			throw new UnityException("I don't know man... :/");
+			Time.timeScale = 0f;
 		}
 	}
 
