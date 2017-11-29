@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class ScoreDisplay : MonoBehaviour {
 
 	public Text[] rollTexts, frameTexts;
+	public static int totalScore;
 
 	public void FillRolls (List<int> rolls)
 	{
@@ -24,7 +25,10 @@ public class ScoreDisplay : MonoBehaviour {
 	public void FillFrames (List<int>frames)
 	{
 		for (int i = 0; i < frames.Count; i++) {
-			frameTexts[i].text = frames[i].ToString();
+			frameTexts [i].text = frames [i].ToString ();
+			if (i == 9) {
+				totalScore = frames [i];
+			}
 		}
 	}
 }

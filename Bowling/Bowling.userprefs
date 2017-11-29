@@ -1,14 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DragDrop.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScoreDisplay.cs">
     <Files>
-      <File FileName="Assets\Scripts\ScoreDisplay.cs" Line="29" Column="3" />
-      <File FileName="Assets\Scripts\GameManager.cs" Line="29" Column="3" />
-      <File FileName="Assets\Scripts\ScoreMaster.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Editor\ScoreMasterTest.cs" Line="166" Column="64" />
-      <File FileName="Assets\Scripts\PinCounter.cs" Line="31" Column="5" />
-      <File FileName="Assets\Scripts\DragDrop.cs" Line="35" Column="40" />
-      <File FileName="Assets\Scripts\PinSetter.cs" Line="27" Column="24" />
+      <File FileName="Assets\Scripts\ScoreDisplay.cs" Line="30" Column="29" />
+      <File FileName="Assets\Scripts\DragDrop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TextCount.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PinSetter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

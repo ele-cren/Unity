@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour {
 	private List<int> rolls = new List<int>();
 	private Ball ball;
 	private ScoreDisplay scoreDisplay;
+	public bool play = true;
 
 	// Use this for initialization
 	void Start () {
@@ -28,6 +29,8 @@ public class GameManager : MonoBehaviour {
 		scoreDisplay.FillFrames (ScoreMaster.ScoreFrame (rolls));
 
 		pinSetter.PerformAction (ActionMaster.NextAction (rolls));
-		ball.Reset();
+		if (play) {
+			ball.Reset();
+		}
 	}
 }

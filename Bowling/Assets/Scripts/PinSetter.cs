@@ -7,6 +7,7 @@ public class PinSetter : MonoBehaviour {
 	private Animator animator;
 	private PinCounter pinCounter;
 	public GameObject pins;
+	public LevelManager levelManager;
 
 	// Use this for initialization
 	void Start () {
@@ -24,8 +25,14 @@ public class PinSetter : MonoBehaviour {
 			animator.SetTrigger("resetTrigger");
 			pinCounter.SetCount();
 		} else if (action == ActionMaster.Action.EndGame){
-			Time.timeScale = 0f;
+			FindObjectOfType<GameManager>().play = false;
+			Invoke("LoadEnd", 3f);
 		}
+	}
+
+	private void LoadEnd ()
+	{
+		levelManager.LoadLevel("02_End");
 	}
 
 	public void RaisePins(){

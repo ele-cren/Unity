@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class DragDrop : MonoBehaviour {
 
@@ -8,6 +9,7 @@ public class DragDrop : MonoBehaviour {
 	private Vector3 startDrag, endDrag;
 	private Ball ball;
 	private Animator pinAnimator;
+	public Text powerText;
 
 	void Start(){
 		ball = GetComponent<Ball>();
@@ -39,8 +41,17 @@ public class DragDrop : MonoBehaviour {
 		float speedZ = (endDrag.y - startDrag.y) / duration / 4f;
 
 		speedZ = (speedZ > 1000f) ? 1000f : speedZ;
-		if (!ball.inPlay && pinAnimator.GetCurrentAnimatorStateInfo (0).IsName ("Idle")) {
-			ball.Launch(new Vector3(speedX, 0, speedZ));		
+
+		if (!ball.inPlay && pinAnimator.GetCurrentAnimatorStateInfo (0).IsName ("Idle") && speedZ >= 350f) {
+			ball.Launch (new Vector3 (speedX, 0, speedZ));		
+		} else if (speedZ < 350f && !ball.inPlay && pinAnimator.GetCurrentAnimatorStateInfo (0).IsName ("Idle")) {
+			powerText.enabled = true;
+			Invoke("DisableText", 2f);
 		}
 	}
+
+	void DisableText()
+   { 
+      powerText.enabled = false;
+   } 
 }
